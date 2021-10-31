@@ -1,0 +1,19 @@
+.header {
+  background-color: #fff;
+  color: #292929;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: solid 1px #d8d8d8;
+}
+
+.menu-btn{
+  font-size: 30px;
+  color: #292929;
+}
+
+.menu-btn:hover{
+  color: #4831ac;
+}
